@@ -1,4 +1,4 @@
-title: 曹京科
+title: Cao Jingke
 # tagline: 这里是曹京科的个人网页，欢迎访问.
 # description: Life is a movie, but there'll never be a sequel.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,7 +6,7 @@ url: https://cholink.github.io
 
 # Owner/author information
 owner:
-  name: 曹京科
+  name: Cao Jingke
   avatar: jingke.jpg
   # bio: Life is a movie, but there'll never be a sequel.
   email: caojingke@ruc.edu.cn
@@ -22,7 +22,7 @@ owner:
   # instagram: 
   # lastfm:
   # tumblr:
-  # For Google Authorship 
+  # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
 # Analytics and webmaster tools stuff goes here
@@ -35,17 +35,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 关于我
+  - title: About me
     url: /
-  - title: 工作经历
+  - title: Work Experiences
     url: /publications/
-  - title: 获奖经历
+  - title: Awards
     url: /awards/
-  - title: 兴趣爱好
+  - title: Hobbies
     url: /hobbies/
-  - title: 科研成果
+  - title: Researches
     url: /blogs/
-  - title: 项目经历
+  - title: Other Projects
     url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
