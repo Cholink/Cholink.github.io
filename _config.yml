@@ -9,7 +9,7 @@ owner:
   name: 曹京科
   avatar: jingke.jpg
   # bio: Life is a movie, but there'll never be a sequel.
-  email: caojingke@ruc.edu,cn
+  email: caojingke@ruc.edu.cn
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: Cholink
@@ -38,15 +38,15 @@ links:
   - title: 关于我
     url: /
   - title: 工作经历
-    url: /work/
+    url: /publications/
   - title: 获奖经历
     url: /awards/
   - title: 兴趣爱好
     url: /hobbies/
   - title: 科研成果
-    url: /researches/
+    url: /blogs/
   - title: 项目经历
-    url: /projects/
+    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
