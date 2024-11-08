@@ -6,35 +6,31 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Jingke Cao (Camilo, 曹京科)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+我目前是中国人民大学（Renmin University of China）新闻学院国际新闻传播专业研究生, 导师是[李沁教授](http://jcr.ruc.edu.cn/zw/jzyg/js/209f60cd6fda4185b26b205496ac56e5.htm)。 我本科毕业于中山大学（Sun Yat-sen University）西班牙语系，毕业时获得优秀毕业生、优秀毕业论文。我还在中国石化集团国际石油工程有限公司厄瓜多尔子公司（Sinopec International Petroleum Service Ecuador S.A.）宣传岗实习6个月，积累了丰富的西班牙语行政、商务和宣传工作经验。
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+如果您有兴趣，随时欢迎找我交流和讨论，我的微信号是：Cholink55504501。
 
 ---
 
-## Research Interests
+## 兴趣领域
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+**我现在正在寻找西班牙语、人工智能、国际商务、国际宣传相关工作，如果您有相关信息，请联系我~**
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
+- 西班牙语交流（拉丁美洲国家为主）
+- 人工智能交互（包括社交性交互、健康交互）
+- 国际商务（展会合作、商务活动）
+- 国际传播（企业形象、文化交流）
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+我目前的研究方向集中于人工智能跨文化传播，目前的工作取向为国际化、西班牙语、人工智能相关。 我的兴趣在于 **人工智能** 及其在 **跨文化交互**中的应用。简而言之，人工智能可以帮助我们在跨文化交流中增强交互效果，提高说服力，塑造新的企业形象。我希望能够将我的能力投入到个人、企业、城市乃至国家的国际化形象建构中。
 
 ---
 
-## News and Updates
+## 新闻和近况
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **2024年 11月**：非常激动，有机会前往厄瓜多尔中石化国工厄子公司参与文化活动组织、宣传工作 [中石化国际传播实习生](http://www.sinopecgroup.com.cn/). 厄瓜多尔见！
 
 <br>
 
