@@ -36,18 +36,18 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 关于我
+  - title: About Me
     url: /
-  - title: 工作经历
-    url: /publications/
-  - title: 获奖经历
+  - title: Work Experiences
+    url: /workexperiences/
+  - title: Awards
     url: /awards/
-  - title: 兴趣爱好
+  - title: Hobbies
     url: /hobbies/
-  - title: 科研成果
-    url: /startups/
-  - title: 项目经历
-    url: /blogs/
+  - title: Researches
+    url: /researches/
+  - title: Projects
+    url: /projects/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
