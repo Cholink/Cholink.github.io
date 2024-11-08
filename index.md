@@ -4,7 +4,7 @@ layout: page
 
 # 关于 我
 
-<img src="https://github.com/Cholink/Cholink.github.io/blob/main/caojingke.jpg?raw=true" class="floatpic">
+<img src="https://Cholink.github.io/caojingke.jpg" class="floatpic">
 
 我是 **Jingke Cao (Camilo, 曹京科)**.<br>
 
