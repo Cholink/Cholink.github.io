@@ -2,11 +2,11 @@
 layout: page
 ---
 
-# About Me
+# 关于 我
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Jingke Cao (Camilo, 曹京科)**.<br>
+我是 **Jingke Cao (Camilo, 曹京科)**.<br>
 
 我目前是中国人民大学（Renmin University of China）新闻学院国际新闻传播专业研究生, 导师是[李沁教授](http://jcr.ruc.edu.cn/zw/jzyg/js/209f60cd6fda4185b26b205496ac56e5.htm)。 我本科毕业于中山大学（Sun Yat-sen University）西班牙语系，毕业时获得优秀毕业生、优秀毕业论文。我还在中国石化集团国际石油工程有限公司厄瓜多尔子公司（Sinopec International Petroleum Service Ecuador S.A.）宣传岗实习6个月，积累了丰富的西班牙语行政、商务和宣传工作经验。
 
