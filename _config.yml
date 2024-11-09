@@ -1,4 +1,4 @@
-title: Cao Jingke
+title: 曹京科
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,7 +6,7 @@ url: https://cholink.github.io
 
 # Owner/author information
 owner:
-  name: Caojingke
+  name: 曹京科
   avatar: jingke.jpg
   # bio: Life is a movie, but there'll never be a sequel'.
   email: caojingke@ruc.edu.cn
@@ -36,17 +36,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Work Experiences
+  - title: 工作经历
     url: /workexperiences/
-  - title: Awards
+  - title: 获奖经历
     url: /awards/
-  - title: Hobbies
+  - title: 兴趣爱好
     url: /hobbies/
-  - title: Researches
+  - title: 科研成果
     url: /researches/
-  - title: Projects
+  - title: 项目经历
     url: /projects/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
